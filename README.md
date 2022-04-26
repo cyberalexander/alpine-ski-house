@@ -13,6 +13,8 @@ git add .
 git config user.name <user_name>
 git config user.email <user_email>
 
+git commit -m "Initial commit"
+
 git remote add origin <link_to_github_project>
 
 git branch -M develop
